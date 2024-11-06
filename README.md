@@ -30,5 +30,5 @@ Breno                    (RA:)       <br>
 Daniel Bastos Mendonça   (RA: 124117591)<br>
 Juliana Almeida Borges   (RA: 823147128)<br>
 Leonardo                 (RA:)            <br>
-Uriel                    (RA:)           <br>
+Uriel Lopes Araújo       (RA: 722314078)<br>
 ?                        (RA:)
